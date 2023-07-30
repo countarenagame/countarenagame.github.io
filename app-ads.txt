@@ -2042,3 +2042,5 @@ pubmatic.com,160080,RESELLER,5d62403b186f2ace
 #Index
 indexexchange.com, 201411, DIRECT, 50b1c356f2c5c8fc
 
+#Facebook Ownership Confirmation
+facebook.com, 1230383954317876, RESELLER, c3e20eee3f780d68
